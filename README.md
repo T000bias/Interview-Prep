@@ -79,7 +79,7 @@
   - Make this work: duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   - Why is it called a Ternary expression, what does the word "Ternary" indicate?
   - What is "use strict";? what are the advantages and disadvantages to using it?
-  - Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5
+  - Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5 [Answer](https://github.com/T000bias/Interview-Prep/tree/main/fizzbuzz)
   - Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
   - Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
   - Explain what a single page app is and how to make one SEO-friendly.
